@@ -51,6 +51,8 @@
 
 .body {
 	background-color: #b274c4;
+	margin: 0;
+	padding: 0;
 }
 
 .rubik-text {
@@ -76,4 +78,15 @@
   color: #fefaff;
   font-size:2em;
   position: relative;
+}
+
+@media screen and (max-width 600px) {
+  .body {
+	background-color: #82c9f5;
+	padding: 0;
+	margin: 0;
+  }
+  #main-navbar {
+	background-color: #35a4e8;
+  }
 }
