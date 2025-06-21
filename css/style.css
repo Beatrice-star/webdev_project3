@@ -98,10 +98,10 @@
 	margin: 0;
   }
  
- #main-navbar {
-  background-color: #2a9647;
-  overflow: hidden;
-  width: 100%;
-  display: block;
+  #main-navbar {
+    background-color: #2a9647;
+    overflow: hidden;
+    width: 100%;
+    display: block;
   }
 }
