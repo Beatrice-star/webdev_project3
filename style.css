@@ -1,0 +1,79 @@
+
+#main-navbar {
+  background-color: #a134c2;
+  overflow: hidden;
+  width: 100%;
+  display: block;
+}
+
+#navbar-container {
+  float: left;
+  width: 100%;
+  position: relative;
+  display:block;
+}
+
+#main-navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+
+#main-navbar ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+
+#main-navbar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fefaff;
+  text-decoration: none;
+}
+
+#main-navbar ul li a:hover {
+  background-color: #b274c4;
+  font-size: 1.5em;
+  overflow: hidden;
+}
+
+#onpage {
+  font-family: "Rubik", sans-serif;
+  font-weight: 450;
+  font-style: underline;
+  color: #b274c4;
+}
+
+.body {
+	background-color: #b274c4;
+}
+
+.rubik-text {
+  font-family: "Rubik", sans-serif;
+  font-weight: 450;
+  font-style: normal;
+  color: #fefaff;
+  position: relative;
+}
+
+.creepster-regular {
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color:#fefaff;
+  position: relative;
+}
+
+.rubik-title {
+  font-family: "Rubik", sans-serif;
+  font-weight: 550;
+  font-style: normal;
+  color: #fefaff;
+  font-size:2em;
+  position: relative;
+}
